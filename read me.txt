@@ -1,0 +1,1 @@
+mini gra w zgadywanie pseudowylosowanej liczby.

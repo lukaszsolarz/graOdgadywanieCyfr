@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513001459 source:c:\users\£ukasz\desktop\loso\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1531785638 source:c:\users\£ukasz\desktop\kodowanie\loso\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
